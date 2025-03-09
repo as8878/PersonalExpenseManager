@@ -1,5 +1,6 @@
 
-![PersonalExpenseManager Banner](https://res.cloudinary.com/prathmeshc/image/upload/v1697498371/Feature_Graphic_Image_fyjuun.png)
+![PersonalExpenseManager Banner](![image](https://github.com/user-attachments/assets/264a3053-798b-4701-bcf9-b1ab258da766)
+)
 
 
 # PersonalExpenseManager - Track Expenses
