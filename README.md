@@ -71,19 +71,19 @@ Take control of your finances with PersonalExpenseManager, an intuitive expense 
 
 ## 🏗️ PersonalExpenseManager Architecture Diagram
 
-![PersonalExpenseManager Architecture](./assets\android\ExpenseManager_HLD_faugzn.png)
+<td><img src="./assets\android\ExpenseManager_HLD_faugzn.png" width="240"/></td>
 
 ---
 
 ## 🏗️ Push Notification / Sync Flow
 
-![PersonalExpenseManager Push / Sync Flow](./assets\android\Push_Notification_HLD_ef5r6m.png)
+<td><img src="./assets\android\Push_Notification_HLD_ef5r6m.png" width="240"/></td>
 
 ---
 
 ## 🏗️ PersonalExpenseManager CI/CD Pipeline
 
-![PersonalExpenseManager CI/CD Pipeline](./assets\android\Spendwise-Backend-CI_CD_mu61dw.png)
+<td><img src="./assets\android\Spendwise-Backend-CI_CD_mu61dw.png" width="240"/></td>
 
 ---
 
