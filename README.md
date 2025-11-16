@@ -27,14 +27,11 @@ Take control of your finances with PersonalExpenseManager, an intuitive expense 
 | 🔔 Push Notifications     | [Firebase Cloud Messaging](https://firebase.google.com/) (if used)   |
 | 🧪 Testing (optional)     | JUnit, Espresso (update if you have tests)                          |
 
-> ✏️ Update/remove rows above to exactly match what your Android app currently uses.
 
 ---
 
 ## 🛠 Backend Built With
 
-> If your backend lives in a separate repo, keep this section to show the full system.  
-> If not, you can remove it or leave it as future work.
 
 | Feature        | Tech                                                                 |
 |---------------|----------------------------------------------------------------------|
@@ -47,7 +44,6 @@ Take control of your finances with PersonalExpenseManager, an intuitive expense 
 
 ## 📱 Android Screenshots
 
-> Replace the image paths with actual screenshots from your repo (e.g., `./assets/android/home.png`).
 
 <table style="width:100%">
   <tr>
@@ -75,23 +71,17 @@ Take control of your finances with PersonalExpenseManager, an intuitive expense 
 
 ## 🏗️ PersonalExpenseManager Architecture Diagram
 
-> Export your architecture diagram (e.g., from Draw.io, Figma, Excalidraw) as a PNG and drop it into `./docs`.
-
 ![PersonalExpenseManager Architecture](./assets\android\ExpenseManager_HLD_faugzn.png)
 
 ---
 
 ## 🏗️ Push Notification / Sync Flow
 
-> If you have a separate diagram for notifications or sync, keep this. Otherwise, remove this section.
-
 ![PersonalExpenseManager Push / Sync Flow](./assets\android\Push_Notification_HLD_ef5r6m.png)
 
 ---
 
 ## 🏗️ PersonalExpenseManager CI/CD Pipeline
-
-> If you have a separate diagram for notifications or sync, keep this. Otherwise, remove this section.
 
 ![PersonalExpenseManager CI/CD Pipeline](./assets\android\Spendwise-Backend-CI_CD_mu61dw.png)
 
